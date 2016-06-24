@@ -1,4 +1,15 @@
 # My second Github project
-In this project, you will see my homework in the Udacity. Now, there are four mini
-projects. In the mini projects, I process data using supervised learning, unsuperviesed
-learing or enhanced learning.
+
+In this project, you will see my homework in the Udacity's Machine Learning Engineer Nanodegree. Now, there are five mini
+projects.
+
+- P0:*Titanic Survival Exploration*   
+  （Introduction and Foundations）
+- P1:*Predicting Boston Housing Prices*   
+（Model Evaluation & Validation）
+- P2: *Building a Student Intervention System*    
+（Supervised Learning）    
+- P3:*Creating Customer Segments*   
+（Unsupervised Learning）
+- P4:*smartcab*   
+（reinforcement learning）
