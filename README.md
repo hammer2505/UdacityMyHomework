@@ -1,6 +1,6 @@
 # My second Github project
 
-In this project, you will see my homework in the Udacity's Machine Learning Engineer Nanodegree. Now, there are five mini
+In this project, you will see my homework in the [Udacity](https://cn.udacity.com/)'s Machine Learning Engineer Nanodegree. Now, there are five mini
 projects.
 
 - P0:*Titanic Survival Exploration*   
